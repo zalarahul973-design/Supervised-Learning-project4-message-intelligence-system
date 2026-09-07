@@ -1,4 +1,4 @@
-![Uploading gif3s.gif…]()
+![Uploading gif3s.gif…]() 
 
 
 🚀 Project 4 — KNN, SVM & Naive Bayes
