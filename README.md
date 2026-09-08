@@ -343,6 +343,8 @@ KNN vs SVM vs Naive Bayes
 and the Y-axis is limited from:
 0 → 1
 This provides a visual comparison of the three classification algorithms.
+<img width="640" height="574" alt="gif2s" src="https://github.com/user-attachments/assets/e254fe36-c8fc-4f2f-b83c-2d7a4756ea85" />
+
 ________________________________________
 📊 Final Model Comparison
                  Accuracy   Precision   Recall   F1 Score
