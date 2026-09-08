@@ -1,4 +1,4 @@
-![Uploading gif3s.gif…]() 
+<img width="1504" height="846" alt="gif1s" src="https://github.com/user-attachments/assets/a6c0c458-16d0-4014-b032-5cafb966cb8f" />
 
 
 🚀 Project 4 — KNN, SVM & Naive Bayes
